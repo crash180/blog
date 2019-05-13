@@ -1,4 +1,4 @@
-baseurl = "https://blog.jace.pro/"
+baseurl = "https://hopeful-shaw-e06a83.netlify.com/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -11,6 +11,7 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
+#Change to my information
 disqusShortname = "gggr"
 #googleAnalytics = "XXX"
 
@@ -40,13 +41,13 @@ disqusShortname = "gggr"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Jace Benson"
-#  gitlab = "jacebenson"
-  github = "jacebenson"
-  twitter = "jacebenson"
-#  linkedin = "jacebenson"
-#  stackoverflow = "users/546886/jace"
-#  youtube = "user/jacebenson" # or channel/channelname
+  name = "Kevin Eldridge"
+  gitlab = "EldridgeKevinM"
+  github = "crash180"
+  twitter = "KevinServiceNow"
+  linkedin = "kevinmeldridge"
+  stackoverflow = "users/9023044/kevin-eldridge"
+  #youtube = "user/eldridgekevinm" # or channel/channelname
 
 
 [[menu.main]]
